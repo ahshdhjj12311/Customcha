@@ -3,7 +3,7 @@ local Tabela = {
 	PlayerPermission = {
 		["ahshdhjj1231"] = 			{Tier = 1000},
 		["kinglengid"] = 			{Tier = 1000},
-	};
+	},
 
 
 	CharacterTier = {
@@ -21,5 +21,5 @@ local Tabela = {
 		["JP6"] = 					{Tier = 1000,Permission = {3188670297}},
 		["Gojo"] = 					{Tier = 1000,Permission = {3188670297,5131454597,3625209125}},
 		["Madara"] = 					{Tier = 1000,Permission = {3188670297}},
-	};
-};
+	}
+}
